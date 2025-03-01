@@ -43,8 +43,11 @@
 - **Players Online:** `xx/xx`
 - **Ping:** `xx ms`
 
-### 🔥 Discord Server Stats
-[![Discord Server](https://discordapp.com/api/guilds/yg885t9y/widget.png?style=banner2)](https://discord.gg/yg885t9y)
+
+### 🔥 Discord Server Stats  
+![Discord Members](https://discord.com/api/guilds/1152526462725914725/widget.png?style=shield)
+
+[Join Our Discord](https://discord.gg/yg885t9y)
 
 ---
 
