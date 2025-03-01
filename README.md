@@ -58,8 +58,12 @@
 ### 🖼️ Server Logo  
 ![Discord Logo](https://cdn.discordapp.com/icons/1152526462725914725/icon.png?size=1024)
 
-### 🚀 Join Our Community  
-[![Join Legendary Roleplay](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yg885t9y)
+### 🚀 Join Legendary Roleplay 
+<p align="center">
+  <a href="https://discord.gg/yg885t9y">
+    <img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
 ---
 
