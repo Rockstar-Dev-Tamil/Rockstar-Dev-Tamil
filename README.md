@@ -46,17 +46,15 @@
 
 ## 🔥 Discord Server Stats  
 
+### 🎨 Server Widget (Auto-Updating)
+![Discord Widget](https://discord.com/api/guilds/1152526462725914725/widget.png?style=banner2)
+
 ### 🏆 Total Members & Online Members  
 ![Discord](https://img.shields.io/discord/1152526462725914725?label=Total%20Members&logo=discord&color=7289DA)
 
-### 🌟 Server Boost Level  
-**💎 Server Boost Level:** `Level 2`![Boost Level](https://img.shields.io/badge/Boost%20Level-2-purple?logo=discord)
+### 💎 Server Boost Level  
+![Boost Level](https://img.shields.io/badge/Boost%20Level-2-purple?logo=discord)
 
-### 🎨 Server Banner  
-![Discord Banner](https://cdn.discordapp.com/banners/1152526462725914725/banner.png?size=1024)
-
-### 🖼️ Server Logo  
-![Discord Logo](https://cdn.discordapp.com/icons/1152526462725914725/icon.png?size=1024)
 
 ### 🚀 Join Legendary Roleplay 
 <p align="center">
