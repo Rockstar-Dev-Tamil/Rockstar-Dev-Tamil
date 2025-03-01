@@ -50,7 +50,7 @@
 ![Discord](https://img.shields.io/discord/1152526462725914725?label=Total%20Members&logo=discord&color=7289DA)
 
 ### 🌟 Server Boost Level  
-**💎 Server Boost Level:** `Level 2`
+**💎 Server Boost Level:** `Level 2`![Boost Level](https://img.shields.io/badge/Boost%20Level-2-purple?logo=discord)
 
 ### 🎨 Server Banner  
 ![Discord Banner](https://cdn.discordapp.com/banners/1152526462725914725/banner.png?size=1024)
@@ -59,7 +59,7 @@
 ![Discord Logo](https://cdn.discordapp.com/icons/1152526462725914725/icon.png?size=1024)
 
 ### 🚀 Join Our Community  
-[![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yg885t9y)
+[![Join Legendary Roleplay](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yg885t9y)
 
 ---
 
