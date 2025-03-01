@@ -1,9 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Jayabalaji</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Rockstar-Dev-Tamil">Jayabalaji</a> 👋</h1>
 <h3 align="center">💻 SAMP Developer | 🖥️ Web Developer | 🎮 Gamer | 🎨 Anime Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rockstar-Dev-Tamil&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- About Me -->
@@ -36,8 +36,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rockstar-Dev-Tamil&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rockstar-Dev-Tamil&theme=tokyonight" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 🔗 Connect with Me
 
 - 💬 Discord: `rockstar_yt_tamil`  
-- 📧 Email: [ytrockstar51@gmail.com](mailto: ytrockstar51@gmail.com)  
+- 📧 Email: [ytrockstar51@gmail.com](mailto:ytrockstar51@gmail.com)  
 
 ---
 
