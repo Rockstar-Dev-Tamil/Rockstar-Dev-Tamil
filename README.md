@@ -44,10 +44,22 @@
 - **Ping:** `xx ms`
 
 
-### 🔥 Discord Server Stats  
-![Discord](https://img.shields.io/discord/1152526462725914725?label=Discord%20Online&logo=discord&color=7289DA)
+## 🔥 Discord Server Stats  
 
-[Join Our Discord](https://discord.gg/yg885t9y)
+### 🏆 Total Members & Online Members  
+![Discord](https://img.shields.io/discord/1152526462725914725?label=Total%20Members&logo=discord&color=7289DA)
+
+### 🌟 Server Boost Level  
+**💎 Server Boost Level:** `Level 2`
+
+### 🎨 Server Banner  
+![Discord Banner](https://cdn.discordapp.com/banners/1152526462725914725/banner.png?size=1024)
+
+### 🖼️ Server Logo  
+![Discord Logo](https://cdn.discordapp.com/icons/1152526462725914725/icon.png?size=1024)
+
+### 🚀 Join Our Community  
+[![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yg885t9y)
 
 ---
 
