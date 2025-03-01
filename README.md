@@ -46,7 +46,7 @@
 
 ## 🔥 Discord Server Stats  
 
-### 🎨 Server Widget (Auto-Updating)
+### 🎨 Server Widget 
 ![Discord Widget](https://discord.com/api/guilds/1152526462725914725/widget.png?style=banner2)
 
 ### 🏆 Total Members & Online Members  
