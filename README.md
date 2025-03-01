@@ -47,7 +47,7 @@
 ## 🔥 Discord Server Stats  
 
 ### 🎨 Server Widget 
-![Discord Widget](https://discord.com/api/guilds/1152526462725914725/widget.png?style=banner2)
+![Discord Widget](https://discord.com/api/guilds/1152526462725914725/widget.png?style=banner4)
 
 ### 🏆 Total Members & Online Members  
 ![Discord](https://img.shields.io/discord/1152526462725914725?label=Total%20Members&logo=discord&color=7289DA)
