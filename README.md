@@ -36,8 +36,8 @@
 
 ## 🎮 Legendary Roleplay Server Stats
 
-### 🏆 SA-MP Server Stats
-[![SA-MP Server](https://cache.gametracker.com/server_info/172.232.97.135:4581/banner_560x95.png)](https://www.gametracker.com/server_info/172.232.97.135:4581/)
+### 🏆 SA-MP Server 
+
 
 - **IP:** `172.232.97.135:4581`
 - **Players Online:** `xx/xx`
