@@ -70,7 +70,9 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rockstar-Dev-Tamil&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rockstar-Dev-Tamil&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockstar-Dev-Tamil&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
