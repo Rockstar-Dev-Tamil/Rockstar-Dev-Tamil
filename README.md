@@ -51,6 +51,7 @@
 
 ### 🏆 Total Members & Online Members  
 ![members](https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1152526462725914725)
+![online](https://img.shields.io/discord/1152526462725914725?logo=discord)
 
 
 ### 💎 Server Boost Level  
