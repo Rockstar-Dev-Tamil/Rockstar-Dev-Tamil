@@ -81,7 +81,7 @@
 ## 🔗 Connect with Me
 
 - 💬 Discord: `rockstar_yt_tamil`  
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<844809549222379561>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=844809549222379561)
 - 📧 Email: [ytrockstar51@gmail.com](mailto:ytrockstar51@gmail.com)  
 
 ---
