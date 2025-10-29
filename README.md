@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech CSE (2024-2028) at SRMIST**  
-- 🔥 Passionate **SA-MP Developer** (Pawn Scripter)  
+- 🔥 Intermediate **SA-MP Developer** (Pawn Scripter)  
 - 🎮 Owner/Developer of **Legendary Roleplay (SA-MP Tamil Server)**  
 - 🌐 Web Developer (HTML, CSS, JavaScript, Python)  
 - 📺 Anime Lover  
