@@ -50,7 +50,8 @@
 ![Discord Widget](https://discord.com/api/guilds/1152526462725914725/widget.png?style=banner4)
 
 ### 🏆 Total Members & Online Members  
-![discord members](https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1152526462725914725&color=27ae60&label=Users&scale=2)
+![members](https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1152526462725914725)
+
 
 ### 💎 Server Boost Level  
 ![Boost Level](https://img.shields.io/badge/Boost%20Level-2-purple?logo=discord)
