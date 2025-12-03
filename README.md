@@ -1,7 +1,8 @@
 <!-- Header -->
 <h1 align="center">🌙 Hey, I'm <a href="https://github.com/Rockstar-Dev-Tamil">T. Jayabalaji</a> 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&size=26&center=true&vCenter=true&width=600&lines=Developer+from+Chennai;CSE+Student+at+SRMIST;SA-MP+Scripter+%7C+Web+Developer;Gamer+%7C+Coder+%7C+Anime+Fan;I+love+building+things+that+actually+work!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&size=24&center=true&vCenter=true&width=600&lines=CSE+Student+at+SRMIST;Developer+from+Chennai;SA-MP+Scripter+%7C+Web+Developer;Gamer+%7C+Coder+%7C+Anime+Fan;I+love+building+things+that+actually+work!">
 </p>
 
 <p align="center">
@@ -12,18 +13,16 @@
 
 ## 🧑‍💻 About Me  
 
-<img align="right" src="https://i.imgur.com/Zf6xF6V.png" width="260" alt="Dev Mascot"/>
-
-- 🎓 **B.Tech CSE (2024–2028)** @ SRMIST  
-- 💻 Developer who loves **C, C++, Python, Web, Bots**  
-- 🎮 **SA-MP Developer** – Heists, systems, RP mechanics  
+- 🎓 **B.Tech CSE (2024–2028)** @ SRMIST, Chennai  
+- 💻 Developer who loves working with **C, C++, Python, Web & Bots**  
+- 🎮 **SA-MP (Pawn) Developer** – heists, RP systems, gameplay logic  
 - 🌐 Web dev using **HTML, CSS, JavaScript**  
-- 🔥 Always learning, always debugging  
-- 🕹 Gaming + Anime = therapy  
+- 🧪 Learning by building: tools, systems, small games, bots  
+- 📺 Anime enjoyer • 🎧 Late-night coder • Debugger mindset  
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠 Tech Stack  
 
 **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -41,27 +40,39 @@
 
 ---
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects  
 
-<p align="center">
+### 🎟️ TrainTicketGo – Railway Reservation System (C)
+CLI-based railway booking system using **DSA concepts**.  
+> Seat availability, booking, cancellation, PNR search.  
+**Tech:** `C`, `DSA (linked lists, queues)`  
+🔗 Repo: [TrainTIcketGo](https://github.com/Rockstar-Dev-Tamil/TrainTIcketGo)
 
-  <a href="https://github.com/Rockstar-Dev-Tamil/TrainTIcketGo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rockstar-Dev-Tamil&repo=TrainTIcketGo&theme=tokyonight&border_color=8b5cf6&border_radius=12"/>
-  </a>
+---
 
-  <a href="https://github.com/Rockstar-Dev-Tamil/Deadlock-Detection-Prevention-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rockstar-Dev-Tamil&repo=Deadlock-Detection-Prevention-System&theme=tokyonight&border_color=8b5cf6&border_radius=12"/>
-  </a>
+### 🧠 Deadlock Detection & Prevention System
+Interactive demo for **Operating System deadlocks**.  
+> Allocation matrix, request matrix, safe state visualisation.  
+**Tech:** `HTML`, `JavaScript`, `OS Concepts`  
+🔗 Repo: [Deadlock-Detection-Prevention-System](https://github.com/Rockstar-Dev-Tamil/Deadlock-Detection-Prevention-System)
 
-  <a href="https://github.com/Rockstar-Dev-Tamil/Simple-PygameTicTacToe-With-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rockstar-Dev-Tamil&repo=Simple-PygameTicTacToe-With-AI&theme=tokyonight&border_color=8b5cf6&border_radius=12"/>
-  </a>
+---
 
-  <a href="https://github.com/Rockstar-Dev-Tamil/LEGENDARY-WEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rockstar-Dev-Tamil&repo=LEGENDARY-WEB&theme=tokyonight&border_color=8b5cf6&border_radius=12"/>
-  </a>
+### 🎮 Simple Pygame Tic-Tac-Toe with AI
+Tic-tac-toe built using **Pygame**, with simple AI move logic.  
+> Strengthened game loops, state handling, and decision logic.  
+**Tech:** `Python`, `Pygame`  
+🔗 Repo: [Simple-PygameTicTacToe-With-AI](https://github.com/Rockstar-Dev-Tamil/Simple-PygameTicTacToe-With-AI)
 
-</p>
+---
+
+### 🌐 LEGENDARY-WEB + Simple-Aurus-Web + Project-Library
+Static web projects focusing on layout, structure, and UI.  
+> Community page, simple landing pages, and project gallery.  
+**Tech:** `HTML`, `CSS`, `JavaScript`  
+🔗 [LEGENDARY-WEB](https://github.com/Rockstar-Dev-Tamil/LEGENDARY-WEB) •  
+🔗 [SIMPLE-AURUS-WEB](https://github.com/Rockstar-Dev-Tamil/SIMPLE-AURUS-WEB) •  
+🔗 [Project-Library](https://github.com/Rockstar-Dev-Tamil/Project-Library)
 
 ---
 
@@ -73,17 +84,19 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Snapshot  
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Rockstar-Dev-Tamil&show_icons=true&theme=tokyonight&border_radius=12" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rockstar-Dev-Tamil&theme=tokyonight&border_radius=12" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockstar-Dev-Tamil&layout=compact&theme=tokyonight&border_radius=12" />
+  <img src="https://img.shields.io/github/followers/Rockstar-Dev-Tamil?style=for-the-badge&color=8b5cf6&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Rockstar-Dev-Tamil?style=for-the-badge&color=ec4899&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/repos/Rockstar-Dev-Tamil?style=for-the-badge&color=22c55e&label=Public%20Repos" />
 </p>
 
 ---
 
-## 🔥 Legendary Roleplay – Tamil SA-MP
+## 🔥 Legendary Roleplay – Tamil SA-MP  
+
+I help build gameplay systems, heists, scripts & RP mechanics for **Legendary Roleplay** (Tamil SA-MP server).
 
 ![Discord Widget](https://discord.com/api/guilds/1152526462725914725/widget.png?style=banner4)
 
@@ -95,12 +108,12 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me  
 
 - 💬 Discord: `rockstar_yt_tamil`  
-  ![Discord](https://discord-readme-badge.vercel.app/api?id=844809549222379561)
-- 💼 LinkedIn: [jayabalaji-t](https://www.linkedin.com/in/jayabalaji-t-1a647526a/)
-- 📧 Email: [ytrockstar51@gmail.com](mailto:ytrockstar51@gmail.com)
+  ![Discord](https://discord-readme-badge.vercel.app/api?id=844809549222379561)  
+- 💼 LinkedIn: [jayabalaji-t](https://www.linkedin.com/in/jayabalaji-t-1a647526a/)  
+- 📧 Email: [ytrockstar51@gmail.com](mailto:ytrockstar51@gmail.com)  
 
 ---
 
