@@ -1,36 +1,31 @@
 <!-- Title -->
 <h1 align="center">⚡ T. Jayabalaji</h1>
-<h3 align="center">Full-Time Learner • Developer • Gamer • Tech Enthusiast</h3>
+<h3 align="center">Developer • Gamer • CSE Student @ SRMIST</h3>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=25&center=true&vCenter=true&width=650&lines=CSE+Student+at+SRMIST;Developer+from+Chennai;Web+Dev+%7C+Bots+%7C+C%2B%2B;SA-MP+Scripter+%7C+Game+Systems;Always+Learning.+Always+Building.">
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=25&center=true&vCenter=true&width=650&lines=CSE+Student+at+SRMIST;Developer+from+Chennai;Web+Dev+%7C+C%2B%2B+%7C+Python;SA-MP+Scripter+%7C+Game+Systems;Always+Building.+Always+Learning.">
 </p>
 
-<!-- Stats row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rockstar-Dev-Tamil&style=flat-square&color=BB86FC" />
 </p>
 
 ---
 
-# 🌑 About Me (Dev Mode)
+# 🌙 About Me 
 
-<div align="center">
-  <img src="https://i.imgur.com/YuZ4qYy.png" width="230px" style="border-radius:12px;" />
-</div>
-
-### 🧠 Who am I?
-- 🎓 **2nd Year CSE @ SRMIST**
-- 💻 Developer who enjoys **clean logic, functional builds, and debugging**
-- 🎮 I build **SA-MP systems, RP mechanics, heists & NPC logic**
-- 🌐 I enjoy crafting **minimal, aesthetic web UIs**
-- 🧩 I learn by *building real things*, not memorizing theory
-- ⚡ “**Make it work → Make it clean → Make it yours**”
+### 🧠 Who Am I?
+- 🎓 **CSE Student (2024–2028)** @ SRMIST  
+- 💻 Passionate about **C, C++, Python, Web, Bots**  
+- 🎮 Build systems for **SA-MP RP / heists / NPCs**  
+- 🌐 Love creating **minimal & aesthetic UI**  
+- 🧩 Hands-on learner  
+- ⚡ *"Make it work → Make it clean → Make it yours"*
 
 ---
 
-# 🛠 Tech Stack (Dark Premium)
+# 🛠 Tech Stack  
 
 ### **Core Languages**
 <p>
@@ -38,7 +33,7 @@
   <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=BB86FC">
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=BB86FC">
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=BB86FC">
-  <img src="https://img.shields.io/badge/PAWN-111827?style=for-the-badge&logo=pawn&logoColor=BB86FC">
+  <img src="https://img.shields.io/badge/Pawn-111827?style=for-the-badge&logo=pawn&logoColor=BB86FC">
 </p>
 
 ### **Web / Tools**
@@ -52,38 +47,23 @@
 
 ---
 
-# ⭐ Featured Projects (Clean Developer Cards)
+# ⭐ Featured Projects 
 
-### 🎟️ **TrainTicketGo – Railway System (C + DSA)**
-CLI reservation app with:
-- Seat availability  
-- PNR search  
-- Booking & cancellation  
-➡️ **Repo:** https://github.com/Rockstar-Dev-Tamil/TrainTIcketGo  
+### 🎟️ TrainTicketGo – Railway System (C + DSA)
+➡️ https://github.com/Rockstar-Dev-Tamil/TrainTIcketGo  
 
----
+### 🧠 Deadlock Detection System  
+➡️ https://github.com/Rockstar-Dev-Tamil/Deadlock-Detection-Prevention-System  
 
-### 🧠 **Deadlock Detection System (OS Concept)**
-Interactive safe-state validator using matrices.  
-➡️ **Repo:** https://github.com/Rockstar-Dev-Tamil/Deadlock-Detection-Prevention-System  
+### 🎮 Pygame TicTacToe + AI  
+➡️ https://github.com/Rockstar-Dev-Tamil/Simple-PygameTicTacToe-With-AI  
 
----
-
-### 🎮 **Pygame TicTacToe + AI**
-Python game with intelligent move selection.  
-➡️ **Repo:** https://github.com/Rockstar-Dev-Tamil/Simple-PygameTicTacToe-With-AI  
+### 🌐 LEGENDARY-WEB / UI Projects  
+➡️ https://github.com/Rockstar-Dev-Tamil/LEGENDARY-WEB  
 
 ---
 
-### 🌐 **LEGENDARY-WEB & UI Projects**
-Minimal, aesthetic static websites.  
-➡️ LEGENDARY-WEB  
-➡️ SIMPLE-AURUS-WEB  
-➡️ Project-Library  
-
----
-
-# 🌌 Activity Graph (Dark Nebula)
+# 🌌 Activity Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rockstar-Dev-Tamil&theme=react-dark&area=true&hide_border=true" />
@@ -91,12 +71,12 @@ Minimal, aesthetic static websites.
 
 ---
 
-# ⚡ GitHub Snapshot (Stable Badges)
+# ⚡ GitHub Snapshot  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Followers-111827?style=for-the-badge&logo=github&logoColor=BB86FC&label=Followers&message=Follow" />
-  <img src="https://img.shields.io/badge/Stars-111827?style=for-the-badge&logo=star&logoColor=BB86FC&label=Total%20Stars" />
-  <img src="https://img.shields.io/badge/Public%20Repos-111827?style=for-the-badge&logo=github&logoColor=BB86FC" />
+  <img src="https://img.shields.io/badge/Followers-111827?style=for-the-badge&logo=github&logoColor=BB86FC">
+  <img src="https://img.shields.io/badge/Stars-111827?style=for-the-badge&logo=star&logoColor=BB86FC">
+  <img src="https://img.shields.io/badge/Public%20Repos-111827?style=for-the-badge&logo=github&logoColor=BB86FC">
 </p>
 
 ---
@@ -115,7 +95,7 @@ Minimal, aesthetic static websites.
 
 ---
 
-# 🔗 Connect with Me
+# 🔗 Connect With Me
 
 <p align="center">
   <a href="mailto:ytrockstar51@gmail.com">
@@ -123,6 +103,9 @@ Minimal, aesthetic static websites.
   </a>
   <a href="https://www.linkedin.com/in/jayabalaji-t-1a647526a/">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=BB86FC">
+  </a>
+  <a href="https://discord.com/users/844809549222379561">
+    <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=BB86FC">
   </a>
 </p>
 
