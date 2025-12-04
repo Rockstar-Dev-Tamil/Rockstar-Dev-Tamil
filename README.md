@@ -8,7 +8,15 @@
 </p>
 
 <p align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Rockstar-Dev-Tamil&style=flat-square&color=BB86FC" />
+</p>
+
+<p align="center">
+  <!-- Portfolio Badge -->
+  <a href="https://rockstar-dev-tamil.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
