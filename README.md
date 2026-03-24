@@ -17,10 +17,10 @@
 
 <!-- LINKS -->
 <a href="https://portfolio-rockstar.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-portfolio--rockstar.vercel.app-BB86FC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/_Portfolio-portfolio--rockstar.vercel.app-BB86FC?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://koreventures.info" target="_blank">
-  <img src="https://img.shields.io/badge/🏢_Kore_Ventures-koreventures.info-00e5ff?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/_Kore_Ventures-koreventures.info-00e5ff?style=for-the-badge&logoColor=black" />
 </a>
 
 <br/>
@@ -48,7 +48,7 @@ const rockstar = {
   location:     "Chennai, Tamil Nadu 🇮🇳",
   college:      "SRMIST — B.Tech CSE (2024–2028)",
   roles:        ["Co-Founder & CEO @ Kore Ventures", "Freelance Web Dev"],
-  currentFocus: ["LRP Gamemode 🎮", "Kore Ventures 🏢", "CertiSafe V2 🔐"],
+  currentFocus: ["Legendary Roleplay", "Kore Ventures "],
   achievement:  "🏆 2nd Prize — The Big Bug Theory, SRMIST",
   motto:        "Make it work → Make it clean → Make it yours."
 };
@@ -98,7 +98,7 @@ const rockstar = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 Kore Ventures</h3>
+      <h3> Kore Ventures</h3>
       <p>Venture studio & web dev agency building premium digital products out of Chennai.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_15-111827?style=flat-square&logo=nextdotjs&logoColor=BB86FC">
@@ -108,7 +108,7 @@ const rockstar = {
       <a href="https://koreventures.info">
         <img src="https://img.shields.io/badge/🌐_Live-koreventures.info-00e5ff?style=flat-square">
       </a>
-      <br/><b>Status: 🔥 Actively building</b>
+      <br/><b>Status:  Actively building</b>
     </td>
     <td width="50%" valign="top">
       <h3>🎮 Legendary Roleplay — SA-MP</h3>
