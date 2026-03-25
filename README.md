@@ -49,7 +49,7 @@ const rockstar = {
   college:      "SRMIST — B.Tech CSE (2024–2028)",
   roles:        ["Co-Founder & CEO @ Kore Ventures", "Freelance Web Dev"],
   currentFocus: ["Legendary Roleplay", "Kore Ventures "],
-  achievement:  "🏆 2nd Prize — The Big Bug Theory, SRMIST",
+  achievement:  "-",
   motto:        "Make it work → Make it clean → Make it yours."
 };
 ```
